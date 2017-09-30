@@ -1,0 +1,38 @@
+* <2017-05-04>
+** Fait:
+   - Algorithme de suivi de ligne
+** A faire:
+   - Apprentissage des virages
+* <2016-02-01>
+** Fait:
+   - Suivi de ligne courbe très intéressant
+** À faire:
+   - Modifier le comportement lorsqu'il est complètement perdu (spirale ou autre)
+   - Faire un algo adaptatif qui saurait s'il est actuellement en ligne droite ou en courbe et donc éviter qu'en courbe il ralentisse autant
+   - et/ou Reconstruire le parcours dans une bitmap ou vectoriellement
+* <2016-12-09>
+** Fait:
+   - Calibration semble marcher. Test sur le tapis de jalon TB.
+   - Suivi de ligne droite
+** A faire:
+   - Revoir le suivi de ligne, peut-être d'une autre façon...
+** A faire:
+* <2016-11-14>
+** Fait:
+   - Monté le robot
+   - Customisation du robot
+** A faire:
+   - Calibration
+   - Premier algorithme de suivi de ligne
+
+* <2016-10-13>
+** Fait:
+   - Git
+   - Création d'un régulateur de tension
+   - Installer ev3dev
+   - Tests en python et en C++
+   - Cross-compilé le C++
+   - Fait un programme qui fait tourner le moteur
+** A faire:
+   - Monter le robot
+
